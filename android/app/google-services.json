@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726105213452",
+    "project_id": "sagtagram",
+    "storage_bucket": "sagtagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726105213452:android:de077a8398471904d2fc29",
+        "android_client_info": {
+          "package_name": "com.example.sagtagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726105213452-e5c0f5u3i23vkclsa641i5m4e1gqv5aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs81n1JYIsNI3oYaL6nqKdRMxxXkUxpZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726105213452-e5c0f5u3i23vkclsa641i5m4e1gqv5aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
